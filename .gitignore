@@ -1,0 +1,9 @@
+﻿.vs/
+x64/
+*.user
+*.suo
+*.vcxproj.user
+*.exe
+*.obj
+student.dat
+students.dat
